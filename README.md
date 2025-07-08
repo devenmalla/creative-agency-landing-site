@@ -1,4 +1,4 @@
-# Creative Agency Landing Site
+# Creative Agency Landing Page
 
 A sleek, modern **Creative Agency Landing Page** built with **HTML and CSS**, showcasing design aesthetics, branding clarity, and impactful typography to promote services and projects effectively.
 
